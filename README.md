@@ -4,6 +4,14 @@
 
 👉 [Install on Chrome Web Store](https://chromewebstore.google.com/detail/png-resizer/oifehicfnnlpgkbbojkilmoiebbbiadc)
 
+Unlike online tools that require uploading your files to third-party servers, PNG Resizer processes everything locally. That means your images never leave your computer, ensuring full privacy and blazing-fast performance. Whether you’re optimizing icons for your website or preparing visuals for a presentation, you get results instantly without compression loss or pixelation.
+
+The extension supports batch processing, so you can resize multiple images in one go. This is particularly useful for developers managing UI assets or content managers editing blog illustrations. You can choose the exact dimensions you want or maintain aspect ratio, and apply the changes with one click.
+
+With a minimal UI and zero learning curve, PNG Resizer is perfect for beginners, but also includes the precision features that professionals rely on. It works seamlessly with Chrome and does not require any external tools or sign-ups — just install and use.
+
+The extension is fully localized in over 50 languages and regularly updated. It’s lightweight, secure, and designed to fit smoothly into your everyday workflow. Whether you're working on an eCommerce project, building a landing page, or organizing a media kit — this tool will save you hours.
+
 ---
 
 ## 🚀 Features
