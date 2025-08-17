@@ -4,13 +4,64 @@
 
 👉 [Install on Chrome Web Store](https://chromewebstore.google.com/detail/png-resizer/oifehicfnnlpgkbbojkilmoiebbbiadc)
 
-Unlike online tools that require uploading your files to third-party servers, PNG Resizer processes everything locally. That means your images never leave your computer, ensuring full privacy and blazing-fast performance. Whether you’re optimizing icons for your website or preparing visuals for a presentation, you get results instantly without compression loss or pixelation.
+## Local, Fast, and Private by Design
 
-The extension supports batch processing, so you can resize multiple images in one go. This is particularly useful for developers managing UI assets or content managers editing blog illustrations. You can choose the exact dimensions you want or maintain aspect ratio, and apply the changes with one click.
+Unlike typical online tools that require uploading your images to external servers, **PNG Resizer** performs all operations directly in your browser. Your images never leave your device — which means:
 
-With a minimal UI and zero learning curve, PNG Resizer is perfect for beginners, but also includes the precision features that professionals rely on. It works seamlessly with Chrome and does not require any external tools or sign-ups — just install and use.
+- Full privacy and no data leaks
+- No compression or quality loss
+- Instant performance without network delays
+- Works even offline after installation
 
-The extension is fully localized in over 50 languages and regularly updated. It’s lightweight, secure, and designed to fit smoothly into your everyday workflow. Whether you're working on an eCommerce project, building a landing page, or organizing a media kit — this tool will save you hours.
+Ideal for situations where privacy matters or speed is critical — like when you're editing client assets, sensitive internal graphics, or working from a slow connection.
+
+---
+
+## Batch Processing for Efficiency
+
+Resize multiple images at once — a must-have feature for anyone managing a large volume of visual content.
+
+You can:
+
+- Drag and drop multiple files into the interface
+- Set target dimensions or keep the aspect ratio
+- Apply changes to all images with one click
+- Download resized files immediately, no waiting
+
+Common use cases:
+
+| Role                 | Use Case                                     |
+|----------------------|----------------------------------------------|
+| Developers           | UI kits, icon sets, responsive graphics      |
+| Content creators     | Blog headers, inline images, social previews |
+| E-commerce managers  | Product galleries, thumbnails, banners       |
+| Designers            | Logo packs, prototypes, landing pages        |
+
+---
+
+## Simple Interface, Precise Controls
+
+PNG Resizer was made to be intuitive, yet powerful:
+
+- No learning curve — ready to use instantly
+- Clean interface, focused on one task: resizing
+- No account or registration required
+- Advanced settings available when needed
+
+If you’ve ever felt overwhelmed by bloated image editors or unreliable online tools, PNG Resizer offers a refreshing alternative.
+
+
+---
+
+## Lightweight and Actively Maintained
+
+- Small install size (under 100 KB)
+- Fully self-contained — no external scripts or services
+- Zero tracking or telemetry
+- Compatible with all Chromium-based browsers
+
+This tool is built with performance and reliability in mind. Whether you're building websites, preparing marketing materials, or just resizing a few screenshots — PNG Resizer helps you get it done faster, safer, and with less friction.
+
 
 ---
 
